@@ -7,25 +7,25 @@ python script in jupyter notebooks was used to transform the data type of a date
 
 ## Results
 
-![Checkout Times](/images/01-Checkout-Times-for-Users.png "Checkout Times")
+![Checkout Times](/01-Checkout-Times-for-Users.png "Checkout Times")
 * Trip durations are right-skewed and peak around a value of 10 minutes. 
 
-![Checkout Times by Gender](/images/02-Checkout-Times-by-Gender.png "Checkout Times by Gender")
+![Checkout Times by Gender](/02-Checkout-Times-by-Gender.png "Checkout Times by Gender")
 * There are significantly more male bike users, at ~105k, than female users, at ~32k. The unknown values makeup a little over 5k total. 
 
-![Trips by Weekday](/images/03-Trips-by-Weekday.png "Trips by Weekday")
+![Trips by Weekday](/03-Trips-by-Weekday.png "Trips by Weekday")
 * Peak trip times during the workweek are between 7-9a.m. and 5-6p.m. and over the weekend are spread out from 10a.m. to 6p.m.
 
-![Trips by Gender](/images/04-Trips-by-Gender.png "Trips by Gender")
+![Trips by Gender](/04-Trips-by-Gender.png "Trips by Gender")
 * Peak trip times are similar between 'Male' and 'Female' with significantly higher values for Males since their user numbers are greater.
 
-![Trips by Gender by Weekday](/images/05-Trips-by-Gender-by-Weekday.png "Trips by Gender by Weekday")
+![Trips by Gender by Weekday](/05-Trips-by-Gender-by-Weekday.png "Trips by Gender by Weekday")
 * Subscribers have more usage than customers overall. There are higher values for bike usage during the weekdays and for males as previously noted. 
 
-![August Peak Hours](/images/06-August-Peak-Hours.png "August Peak Hours")
+![August Peak Hours](/06-August-Peak-Hours.png "August Peak Hours")
 * There is a bimodal distribution with peaks between 8a.m.-9a.m. and between 5p.m.-6p.m. 
 
-![Top starting locations](/images/07-Top-starting-locations.png "Top starting locations")
+![Top starting locations](/07-Top-starting-locations.png "Top starting locations")
 * There are significantly more bike users in Manhattan than the other boroughs of NYC. 
 
 ## Summary
